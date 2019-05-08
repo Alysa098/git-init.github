@@ -1,1 +1,1 @@
-# git-init.github
+# git.github
